@@ -1,8 +1,8 @@
-# URL Fetcher Tool
+# Mega Search Links
 
 ## Overview
 
-The URL Fetcher Tool is a Python-based application designed to retrieve URLs from an internal API provided by Meawfy. This tool connects to the API, processes the JSON results containing URLs, and displays them in a user-friendly format. It is highly customizable, allowing users to modify the user-agent for their HTTP requests.
+The Mega Search Links is a Python-based application designed to retrieve URLs from an internal API provided by Meawfy. This tool connects to the API, processes the JSON results containing URLs, and displays them in a user-friendly format. It is highly customizable, allowing users to modify the user-agent for their HTTP requests.
 
 ## Purpose
 
